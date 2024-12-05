@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build directories and files
+/build/
+/dist/
+# *.spec
+
+# Logs and debug files
+*.log
+
+# Config files
+roku_config.json
+
+# Exclude virtual environments
+venv/
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db"*.exe" 
